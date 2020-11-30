@@ -117,3 +117,48 @@ printing quality.***
     <li>Front Brace: https://www.thingiverse.com/thing:2224643 
 </ol>
 
+## Cost to Run
+
+### Electricity
+With an upgraded power supply unit at 12V 30A, we have 0.36 kW/hr of 
+electricity. A high rate of electricity would be $0.25 USD per kW/hr, making the 
+cost of operations for electricity $0.09 USD per hour.
+
+### Filament
+For the sake of simplicity, we're only going to use PLA filament. As of 
+November 2020, PLA filament ranges to as little as $20/kg if you don't care 
+about coloring. Of course, some filament quality is better than others. Cura 
+defaults to about 50 mm/s of filament used. Based off of PLA density and 
+1.75 mm diameter filament, 1 kg of filament is approximately 252.13 meters, with 
+a spool weight of about 250 g. We therefore go through about 180 meters of 
+filament every hour. Overall, this equates to about $14.28/hr of filament.
+
+Why does this cost look extremely high? Because it is!  $14.28/hr is an upper 
+bound of costs. Remember that a printer is not extruding filament 100% of the 
+time it is printing. Repositioning takes a significant amount of time on the 
+print and furthermore, we can print things with less than 100% infill. 
+Therefore, $14.28 is an absolute upper bound of costs. 
+
+### Total Costs: Less than $14.37/hr 
+
+### Is it cost effective?
+
+For personal use, I believe the answer is yes. Printing replacement parts for a 
+robotic vacuum or toy will cost cents, whereas buying may cost more due to 
+shipping or worse yet, the part is unavailable. Printing will allow you to 
+have the part within hours but may require some additional work such as 
+creating a model in CAD or sanding and cutting brims, etc. However, there is a 
+failure rate of 3D prints, which is especially high when starting. If you manage 
+to keep a low failure rate, it may even be a cost effective option for industry.
+
+### Personal Costs
+
+| ***Part***                                                                | ***Cost*** |
+|---------------------------------------------------------------------------|------------|
+| Anet A8 3D Printer                                                        | $139.00    |
+| PSU                                                                       | $20.00     |
+| MOSFETs                                                                   | $8.00      |
+| Power Switch                                                              | $7.00      |
+| Front Brace (Printed for 18 hours with 102g of filament)                  | $3.65      |
+| MOSFET mounts (Printed for approximately 40 minutes with 10g of filament) | $0.05      |
+| ***Total***                                                               | $177.70    |
