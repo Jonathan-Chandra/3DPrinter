@@ -4,7 +4,6 @@
 However, all of the materials or files I've used that are included have been 
 credited in this README and are some form of open source or publicly viewable 
 with no warranty and provided as is. 
->>>>>>> Stashed changes
 
 ## Introduction
 This is a repository of all files and notes regarding a 3D printer I assembled.
