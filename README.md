@@ -1,13 +1,5 @@
 # 3D Printer
 
-<<<<<<< Updated upstream
-## Overview
-
-<ol>
-    <li>[Introduction](## Introduction)
-    <li>[Why the Anet A8](## Why-the-Anet-A8)
-<ol>
-=======
 ***Disclaimer:*** I do not own all of the material included in this repository. 
 However, all of the materials or files I've used that are included have been 
 credited in this README and are some form of open source or publicly viewable 
