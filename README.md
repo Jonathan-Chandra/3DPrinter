@@ -1,4 +1,4 @@
-# 3DPrinter
+# 3D Printer
 
 This is a repository of all files and notes regarding a 3D printer I assembled.
 
