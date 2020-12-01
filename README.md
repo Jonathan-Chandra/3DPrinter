@@ -115,6 +115,7 @@ for viewing of actual printer. Octoprint is Open Source.
 printing quality.***
 <ol>
     <li>Front Brace: https://www.thingiverse.com/thing:2224643 
+    <li>'Spriya' - High Efficiency Anet A8 Fan Duct: https://www.thingiverse.com/thing:2133328
 </ol>
 
 ## Cost to Run
@@ -128,18 +129,13 @@ cost of operations for electricity $0.09 USD per hour.
 For the sake of simplicity, we're only going to use PLA filament. As of 
 November 2020, PLA filament ranges to as little as $20/kg if you don't care 
 about coloring. Of course, some filament quality is better than others. Cura 
-defaults to about 50 mm/s of filament used. Based off of PLA density and 
-1.75 mm diameter filament, 1 kg of filament is approximately 252.13 meters, with 
-a spool weight of about 250 g. We therefore go through about 180 meters of 
-filament every hour. Overall, this equates to about $14.28/hr of filament.
+defaults to about 50 mm/s of filament used. At a nozzle diameter of 0.4 mm, 
+a radius of 0.2 mm, we have approximately 0.00628 cubic centimeters of PLA 
+extruded per second which implies 22.619 cubic centimeters per hour. With a 
+density of 1.430 grams per cubic centimeter, we have a extrusion rate of 32.345 
+grams per hour. This gives us an extrusion cost of $0.6469 per hour. 
 
-Why does this cost look extremely high? Because it is!  $14.28/hr is an upper 
-bound of costs. Remember that a printer is not extruding filament 100% of the 
-time it is printing. Repositioning takes a significant amount of time on the 
-print and furthermore, we can print things with less than 100% infill. 
-Therefore, $14.28 is an absolute upper bound of costs. 
-
-### Total Costs: Less than $14.37/hr 
+### Total Costs: Less than $0.74/hr 
 
 ### Is it cost effective?
 
@@ -150,6 +146,8 @@ have the part within hours but may require some additional work such as
 creating a model in CAD or sanding and cutting brims, etc. However, there is a 
 failure rate of 3D prints, which is especially high when starting. If you manage 
 to keep a low failure rate, it may even be a cost effective option for industry.
+
+
 
 ### Personal Costs
 
