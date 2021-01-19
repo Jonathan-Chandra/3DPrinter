@@ -5,6 +5,9 @@ However, all of the materials or files I've used that are included have been
 credited in this README and are some form of open source or publicly viewable 
 with no warranty and provided as is. 
 
+
+***Edit (Jan. 2021):*** Since the purchase of this printer, the Creality Ender 3 has dropped significantly in price for around $200. I would highly consider that over an Anet A8 at this time due to its metal construction and community support.
+
 ## Introduction
 This is a repository of all files and notes regarding a 3D printer I assembled.
 It contains both information on modifications and firmware files with more to 
@@ -160,3 +163,54 @@ to keep a low failure rate, it may even be a cost effective option for industry.
 | Front Brace (Printed for 18 hours with 102g of filament)                  | $3.65      |
 | MOSFET mounts (Printed for approximately 40 minutes with 10g of filament) | $0.05      |
 | ***Total***                                                               | $177.70    |
+
+### Summary
+
+As of today, (January 2021), the Anet A8 has lost its competitive edge in my 
+personal opinion. With the upgrades I've installed, the printer quickly 
+approaches the $200 price. Personally, I would consider the Ender 3 by Creality 
+which includes a metal frame, making it more rigid and likely creating a higher 
+quality print and a lower failure rate. This is not to say I have 
+"buyers remorse". The Anet A8 was a great learning experience and construction 
+with low economic risk. However, I wouldn't purchase it again due to what I've 
+stated above. Nevertheless, this printer has caused personal interest in FDM 3D 
+printers, and in the future, I'll likely build a custom 3D printer with 
+personally sourced parts, which will be posted later. 
+
+#### What about print quality?
+
+Well, print quality was *okay*. I think it can suit the needs of some, but not 
+many and certainly not 3D printer enthusiasts. In other words, this isn't the 
+printer someone should buy as their 2nd printer, or 3rd, etc. Can you get it 
+functioning well enough to print figurines or props for cosplay? Yes, especially 
+if you plan on sanding and painting your prints, which will hide imperfections. 
+Can you get it to print well enough to do gears, bearings, and smaller 
+mechanically functioning tools? I doubt it. This printer has issues with 
+smaller models. One may argue that I haven't configured the printer well enough 
+and this may be true, but I feel that the amount of work and the inconsistent 
+results have not made it a viable candidate. In short, you probably will never 
+get it to print consistently and as well as, say a Prusa i3, but then again, 
+you get what you pay for. 
+
+To a printer enthusiast, the printer quality is probably poor, but there are 
+machines that print worse out there, and if you're willing to have patience, 
+you can get fair prints. Don't expect it to have good prints right 
+after assembly. Especially if you're new to printing, expect to break a part 
+here or there. The first time I assembled it, I broke a hot end. Luckily, the 
+part was not expensive. Doing so on a name brand hot end would have been 
+significantly more. 
+
+#### Buyer Beware!
+
+You need **a lot** of patience and time. Can this turn people away from 3D 
+printing? **Absolutely.** If you get easily frustrated, take the extra time to 
+budget and save up, and buy a different machine. Not only does it take time to 
+build, but it's likely you'll get a lot of failed prints in the beginning. 
+Each printer is different and manufacturing of the kit yields inconsistencies 
+from product to product. Therefore, there isn't an exact guide on how to 
+configure your personal printer. Has this printer turned me away from 3D 
+printing? **No.** This being said, I don't plan on using this printer forever, 
+and intend to build my own using various sources for design ideas and parts. 
+This will also be published on Github on a different repo. 
+
+In the meantime, happy printing!
